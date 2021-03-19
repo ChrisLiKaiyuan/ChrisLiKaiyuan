@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - [Vidar-Team](https://github.com/orgs/vidar-team/)
 - [HDUHelp](https://github.com/orgs/hduhelp)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisLiKaiyuan&show_icons=true&hide_border=true" />
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=ChrisLiKaiyuan&show_icons=true&hide_border=true)]()
 
 ### Technology Stack
 
