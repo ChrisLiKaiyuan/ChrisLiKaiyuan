@@ -13,12 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Vidar-Team](https://github.com/orgs/vidar-team/)
-[HDUHelp](https://github.com/orgs/hduhelp)
-
 - 💻️ Focus on Web Security
 - 🔭 Working on Backend Develop
 - 🌱 Learning Frontend Develop
+- [Vidar-Team](https://github.com/orgs/vidar-team/)
+- [HDUHelp](https://github.com/orgs/hduhelp)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisLiKaiyuan&show_icons=true&hide_border=true" />
 
