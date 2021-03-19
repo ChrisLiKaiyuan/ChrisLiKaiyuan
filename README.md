@@ -1,3 +1,8 @@
+<table>
+<tbody>
+<tr>
+<td>
+
 ### Hi there, I'm Liki4. 👋
 
 <!--
@@ -11,15 +16,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
+  -->
 - 💻️ Focus on Web Security
 - 🔭 Working on Backend Develop
 - 🌱 Learning Frontend Develop
 - [Vidar-Team](https://github.com/orgs/vidar-team/)
 - [HDUHelp](https://github.com/orgs/hduhelp)
 
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=ChrisLiKaiyuan&show_icons=true&hide_border=true)]()
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrisLiKaiyuan&show_icons=true&count_private=true">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisLiKaiyuan&layout=compact">
+</td>
+</tr>
+</tbody>
+
+</table>
 
 ### Technology Stack
 
