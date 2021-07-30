@@ -6,7 +6,7 @@
 <td>
 
 <!--
-**ChrisLiKaiyuan/ChrisLiKaiyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Liki4/Liki4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisLiKaiyuan&show_icons=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Liki4&show_icons=true&count_private=true">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisLiKaiyuan&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liki4&layout=compact">
 </td>
 </tr>
 </tbody>
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ### Contact
 
 [![Outlook](https://img.shields.io/badge/outlook-0078D4?&style=for-the-badge&logo=outlook&logoColor=white)](mailto:chrislikaiyuan@outlook.com)
-[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChrisLiKaiyuan)
+[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Liki4)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Liki4Switch)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ChrisLiKaiyuan)
