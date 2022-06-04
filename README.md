@@ -5,6 +5,7 @@
 </a>
 
 - 💻️ Focus on Web Security
+- ☠️ Pentest Engineer
 - 🔭 Working on Backend Develop
 - 🌱 Learning Frontend Develop
 - [Vidar-Team](https://github.com/orgs/vidar-team/)
