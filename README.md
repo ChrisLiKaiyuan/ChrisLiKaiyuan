@@ -1,38 +1,14 @@
 ## Hi there, I'm Liki4. 👋
 
-<table>
-<tbody>
-<tr>
-<td>
-
-<!--
-**Liki4/Liki4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
 - 💻️ Focus on Web Security
 - 🔭 Working on Backend Develop
 - 🌱 Learning Frontend Develop
 - [Vidar-Team](https://github.com/orgs/vidar-team/)
 - [HDUHelp](https://github.com/orgs/hduhelp)
 
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Liki4&show_icons=true&count_private=true">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liki4&layout=compact">
-</td>
-</tr>
-</tbody>
-
-</table>
+<a href="https://github.com/Liki4?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Liki4&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="45%" />
+</a>
 
 ### DN42 Peering info
 
