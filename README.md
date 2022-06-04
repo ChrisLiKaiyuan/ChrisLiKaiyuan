@@ -42,6 +42,7 @@ ASN:        4242420927
 LV1 - Las Vegas, US, BuyVM | VyOS
 Tunnel:            WireGuard/GRE etc. (contact me via Telegram/Email)
 Endpoint:          199.19.226.83:xxxxx<last 5 digits of your asn>
+PubKey:            tBCKOOk4lK+fV3+6B6o1H06Lb5iWOyWqU0bR8dgrbgM=
 
 BGP
 Internal-IPv4:     172.21.77.33
