@@ -73,7 +73,7 @@ MBGP Support:      Yes
 
 ### Contact
 
-[![Outlook](https://img.shields.io/badge/outlook-0078D4?&style=for-the-badge&logo=outlook&logoColor=white)](mailto:chrislikaiyuan@outlook.com)
+[![Outlook](https://img.shields.io/badge/outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:chrislikaiyuan@outlook.com)
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Liki4)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Liki4Switch)
 [![Telegram](https://img.shields.io/badge/telegram-%232B5278.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/switch_kg)
