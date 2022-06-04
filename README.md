@@ -34,6 +34,22 @@ Here are some ideas to get you started:
 
 </table>
 
+### DN42 Peering info
+
+```
+ASN:        4242420927
+
+LV1 - Las Vegas, US, BuyVM | VyOS
+Tunnel:            WireGuard/GRE etc. (contact me via Telegram/Email)
+Endpoint:          199.19.226.83:xxxxx<last 5 digits of your asn>
+
+BGP
+Internal-IPv4:     172.21.77.33
+Internal-IPv6:     fd80:96c2:e41e:3dcc::1
+Link-Local IPv6:   fe80::0927
+MBGP Support:      Yes
+```
+
 ### Technology Stack
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -59,5 +75,6 @@ Here are some ideas to get you started:
 [![Outlook](https://img.shields.io/badge/outlook-0078D4?&style=for-the-badge&logo=outlook&logoColor=white)](mailto:chrislikaiyuan@outlook.com)
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Liki4)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Liki4Switch)
+[![Telegram](https://img.shields.io/badge/telegram-%232B5278.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/switch_kg)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ChrisLiKaiyuan)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Liki4)
