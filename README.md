@@ -1,14 +1,15 @@
 ## Hi there, I'm Liki4. 👋
 
+<a href="https://github.com/Liki4?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Liki4&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="45%" />
+</a>
+
 - 💻️ Focus on Web Security
 - 🔭 Working on Backend Develop
 - 🌱 Learning Frontend Develop
 - [Vidar-Team](https://github.com/orgs/vidar-team/)
 - [HDUHelp](https://github.com/orgs/hduhelp)
 
-<a href="https://github.com/Liki4?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Liki4&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="45%" />
-</a>
 
 ### DN42 Peering info
 
