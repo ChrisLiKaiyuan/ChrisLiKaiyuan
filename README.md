@@ -65,10 +65,11 @@ MBGP Support:      Yes
 
 ![Manjaro](https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=for-the-badge&logo=manjaro&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
-![Gnome](https://img.shields.io/badge/gnome-%234A86CF.svg?&style=for-the-badge&logo=gnome&logoColor=white)
+![KDE](https://img.shields.io/badge/kde%20plasma-%231D99F3.svg?&style=for-the-badge&logo=kde&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![OnePlus](https://img.shields.io/badge/oneplus-%23F5010C.svg?&style=for-the-badge&logo=oneplus&logoColor=white)
+![RouterOS](https://img.shields.io/badge/RouterOS-%23444444.svg?&style=for-the-badge&logo=openwrt&logoColor=white)
+![VyOS](https://img.shields.io/badge/VyOS-%23FFB50E.svg?&style=for-the-badge&logo=openwrt&logoColor=white&fontColor=white)
 
 ### Contact
 
