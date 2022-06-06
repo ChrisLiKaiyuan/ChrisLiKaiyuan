@@ -27,7 +27,7 @@ BGP
 Internal-IPv4:     172.21.77.33
 Internal-IPv6:     fd80:96c2:e41e:3dcc::1
 Link-Local-IPv6:   fe80::0927
-MBGP-Support:      Yes
+MP-BGP-Support:    Yes
 Extended Next-hop: 20
 ```
 
