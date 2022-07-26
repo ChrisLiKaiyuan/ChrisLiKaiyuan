@@ -28,7 +28,8 @@ Internal-IPv4:     172.21.77.33
 Internal-IPv6:     fd80:96c2:e41e:3dcc::1
 Link-Local-IPv6:   fe80::0927
 MP-BGP-Support:    Yes
-Extended Next-hop: 20
+Extended Next-hop: Yes
+EBGP-Multihop:     20
 ```
 
 ### Technology Stack
