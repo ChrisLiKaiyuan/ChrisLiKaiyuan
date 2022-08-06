@@ -14,7 +14,7 @@
 
 ### DN42 Peering info
 
-Autopeer [[Source](https://github.com/lutoma/autopeer)]  : https://dn42.liki.link/
+> Autopeer [[Source](https://github.com/lutoma/autopeer)]  : https://dn42.liki.link/
 
 ```
 ASN:        4242420927
