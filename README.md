@@ -14,14 +14,14 @@
 
 ### DN42 Peering info
 
+Autopeer [[Source](https://github.com/lutoma/autopeer)]  : https://dn42.liki.link/
+
 ```
 ASN:        4242420927
 
-LV1 - Las Vegas, US, BuyVM | VyOS
+LV1 - Las Vegas, US, BuyVM | Fedora 36 Server
 Tunnel-Type:       WireGuard
                        # Peering is also possible using OpenVPN/GRE/…, contact me via Telegram(prefer)/Email :-)
-Endpoint:          199.19.226.83:xxxxx <last 5 digits of your asn>
-wg-PubKey:         tBCKOOk4lK+fV3+6B6o1H06Lb5iWOyWqU0bR8dgrbgM=
 
 BGP
 Internal-IPv4:     172.21.77.33
