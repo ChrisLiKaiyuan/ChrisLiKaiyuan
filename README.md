@@ -11,7 +11,7 @@
 - [Vidar-Team](https://github.com/orgs/vidar-team/)
 - [HDUHelp](https://github.com/orgs/hduhelp)
 
-### Autopeer
+### DN42 Autopeer
 
 > Autopeer [[Source](https://github.com/lutoma/autopeer)]  : https://dn42.liki.link/
 
