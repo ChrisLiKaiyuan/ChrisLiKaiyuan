@@ -11,14 +11,13 @@
 - [Vidar-Team](https://github.com/orgs/vidar-team/)
 - [HDUHelp](https://github.com/orgs/hduhelp)
 
-
-### DN42 Peering info
+### Autopeer
 
 > Autopeer [[Source](https://github.com/lutoma/autopeer)]  : https://dn42.liki.link/
 
-```
-ASN:        4242420927
+### DN42 Peering info | AS4242420927
 
+```
 LV1 - Las Vegas, US, BuyVM | Fedora 36 Server
 Tunnel-Type:       WireGuard
                        # Peering is also possible using OpenVPN/GRE/…, contact me via Telegram(prefer)/Email :-)
