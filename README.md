@@ -64,6 +64,7 @@ Extended Next-hop: Yes
 
 ![Manjaro](https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=for-the-badge&logo=manjaro&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-%235199DD.svg?&style=for-the-badge&logo=fedora&logoColor=white&fontColor=white)
 ![KDE](https://img.shields.io/badge/kde%20plasma-%231D99F3.svg?&style=for-the-badge&logo=kde&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
