@@ -22,7 +22,7 @@ Tunnel-Type:       WireGuard
                        # Peering is also possible using OpenVPN/GRE/…, contact me via Telegram(prefer)/Email :-)
 
 
-ONLINE | lv1 - Las Vegas, US, BuyVM
+ONLINE | lv1 - Las Vegas, US
 =========================================
 Internal-IPv4:     172.21.77.33
 Internal-IPv6:     fd80:96c2:e41e:3dcc::1
@@ -31,7 +31,7 @@ MP-BGP-Support:    Yes
 Extended Next-hop: Yes
 
 
-OFFLINE | la1 - Los Angeles, US, Bandwagon
+ONLINE | la1 - Los Angeles, US
 =========================================
 Internal-IPv4:     172.21.77.34
 Internal-IPv6:     fd80:96c2:e41e:3dcc::2
@@ -40,7 +40,7 @@ MP-BGP-Support:    Yes
 Extended Next-hop: Yes
 
 
-OFFLINE | fm1 - Fremont, US, Bandwagon
+ONLINE | fm1 - Fremont, US
 =========================================
 Internal-IPv4:     172.21.77.35
 Internal-IPv6:     fd80:96c2:e41e:3dcc::3
