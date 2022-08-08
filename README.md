@@ -18,17 +18,35 @@
 ### DN42 Peering info | AS4242420927
 
 ```
-LV1 - Las Vegas, US, BuyVM | Fedora 36 Server
 Tunnel-Type:       WireGuard
                        # Peering is also possible using OpenVPN/GRE/…, contact me via Telegram(prefer)/Email :-)
 
-BGP
+
+lv1 - Las Vegas, US, BuyVM
+=========================================
 Internal-IPv4:     172.21.77.33
 Internal-IPv6:     fd80:96c2:e41e:3dcc::1
 Link-Local-IPv6:   fe80::0927
 MP-BGP-Support:    Yes
 Extended Next-hop: Yes
-EBGP-Multihop:     20
+
+
+la1 - Los Angeles, US, Bandwagon
+=========================================
+Internal-IPv4:     172.21.77.34
+Internal-IPv6:     fd80:96c2:e41e:3dcc::2
+Link-Local-IPv6:   fe80::0927
+MP-BGP-Support:    Yes
+Extended Next-hop: Yes
+
+
+fm1 - Fremont, US, Bandwagon
+=========================================
+Internal-IPv4:     172.21.77.35
+Internal-IPv6:     fd80:96c2:e41e:3dcc::3
+Link-Local-IPv6:   fe80::0927
+MP-BGP-Support:    Yes
+Extended Next-hop: Yes
 ```
 
 ### Technology Stack
