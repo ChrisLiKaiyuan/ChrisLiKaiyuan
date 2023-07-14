@@ -17,6 +17,9 @@
 
 ### DN42 Peering info | AS4242420927
 
+> not active for now...
+> too many works to do ;-(
+
 ```
 Tunnel-Type:       WireGuard
                        # Peering is also possible using OpenVPN/GRE/…, contact me via Telegram(prefer)/Email :-)
