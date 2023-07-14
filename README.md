@@ -17,8 +17,8 @@
 
 ### DN42 Peering info | AS4242420927
 
-> not active for now...
-> too many works to do ;-(
+> **Warning**
+> not active for now... too many works to do ;-( | auto peer still working, but not guaranteed...
 
 ```
 Tunnel-Type:       WireGuard
