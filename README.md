@@ -10,7 +10,6 @@
 - 🔑 Security Tools Developer
 - [Vidar-Team](https://github.com/orgs/vidar-team/)
 - [D^3CTF](https://github.com/D-3CTF)
-- [HDUHelp](https://github.com/orgs/hduhelp)
 
 ### DN42 Autopeer
 
@@ -61,6 +60,7 @@ Extended Next-hop: Yes
 [![PHP](https://img.shields.io/badge/php-%23777bb4.svg?&style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Java](https://img.shields.io/badge/java-%23f0931c.svg?&style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
@@ -71,11 +71,18 @@ Extended Next-hop: Yes
 [![Fedora](https://img.shields.io/badge/Fedora-%235199DD.svg?&style=for-the-badge&logo=fedora&logoColor=white&fontColor=white)](https://fedoraproject.org/)
 [![Debian](https://img.shields.io/badge/debian-%23a80030.svg?&style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 [![KDE](https://img.shields.io/badge/kde%20plasma-%231D99F3.svg?&style=for-the-badge&logo=kde&logoColor=white)](https://kde.org/)
-[![RouterOS](https://img.shields.io/badge/RouterOS-%23444444.svg?&style=for-the-badge&logo=openwrt&logoColor=white)](https://mikrotik.com/)
+
+[![QNAP](https://img.shields.io/badge/qnap-%23757575.svg?&style=for-the-badge&logo=truenas&logoColor=white)](https://www.qnap.com/)
+[![Mikrotik](https://img.shields.io/badge/Mikrotik-%23293239.svg?&style=for-the-badge&logo=mikrotik&logoColor=white)](https://mikrotik.com/)
 [![VyOS](https://img.shields.io/badge/VyOS-%23FFB50E.svg?&style=for-the-badge&logo=openwrt&logoColor=white&fontColor=white)](https://vyos.io/)
+
 [![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
+[![PixelOS](https://img.shields.io/badge/pixelos-%23fde694.svg?&style=for-the-badge&logo=android&logoColor=black)](https://pixelos.net/)
+[![RisingTechOSS](https://img.shields.io/badge/RisingTechOSS-%23313163.svg?&style=for-the-badge&logo=android&logoColor=white)](https://github.com/RisingTechOSS)
+
 [![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
 [![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Sublime](https://img.shields.io/badge/Sublime-%23FF9800.svg?&style=for-the-badge&logo=sublimetext&logoColor=white)](https://www.sublimetext.com/)
 
 ### Contact
 
