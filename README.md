@@ -19,7 +19,7 @@
 
 > **Warning**
 > 
-> not active for now... too many works to do ;-( | auto peer still working, but not guaranteed...
+> not active anymore, servers will go offline soon.
 
 ```
 Tunnel-Type:       WireGuard
