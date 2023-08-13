@@ -55,11 +55,11 @@ Extended Next-hop: Yes
 
 ### Technology Stack
 
-[![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![PHP](https://img.shields.io/badge/php-%23777bb4.svg?&style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Java](https://img.shields.io/badge/java-%23f0931c.svg?&style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/java-%23f0931c.svg?&style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![PHP](https://img.shields.io/badge/php-%23777bb4.svg?&style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
