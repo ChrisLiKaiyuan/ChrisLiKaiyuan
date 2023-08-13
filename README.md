@@ -83,6 +83,7 @@ Extended Next-hop: Yes
 [![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
 [![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Sublime](https://img.shields.io/badge/Sublime-%23FF9800.svg?&style=for-the-badge&logo=sublimetext&logoColor=white)](https://www.sublimetext.com/)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%237C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
 
 ### Contact
 
