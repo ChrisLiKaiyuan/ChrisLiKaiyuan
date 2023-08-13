@@ -73,6 +73,7 @@ Extended Next-hop: Yes
 [![KDE](https://img.shields.io/badge/kde%20plasma-%231D99F3.svg?&style=for-the-badge&logo=kde&logoColor=white)](https://kde.org/)
 
 [![QNAP](https://img.shields.io/badge/qnap-%23757575.svg?&style=for-the-badge&logo=truenas&logoColor=white)](https://www.qnap.com/)
+[![HA](https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?&style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.home-assistant.io/)
 [![Mikrotik](https://img.shields.io/badge/Mikrotik-%23293239.svg?&style=for-the-badge&logo=mikrotik&logoColor=white)](https://mikrotik.com/)
 [![VyOS](https://img.shields.io/badge/VyOS-%23FFB50E.svg?&style=for-the-badge&logo=openwrt&logoColor=white&fontColor=white)](https://vyos.io/)
 
