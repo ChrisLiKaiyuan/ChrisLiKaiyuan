@@ -72,12 +72,13 @@ Extended Next-hop: Yes
 [![Debian](https://img.shields.io/badge/debian-%23a80030.svg?&style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 [![KDE](https://img.shields.io/badge/kde%20plasma-%231D99F3.svg?&style=for-the-badge&logo=kde&logoColor=white)](https://kde.org/)
 
-[![QNAP](https://img.shields.io/badge/qnap-%23757575.svg?&style=for-the-badge&logo=truenas&logoColor=white)](https://www.qnap.com/)
+[![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
 [![HA](https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?&style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.home-assistant.io/)
 [![Mikrotik](https://img.shields.io/badge/Mikrotik-%23293239.svg?&style=for-the-badge&logo=mikrotik&logoColor=white)](https://mikrotik.com/)
 [![VyOS](https://img.shields.io/badge/VyOS-%23FFB50E.svg?&style=for-the-badge&logo=openwrt&logoColor=white&fontColor=white)](https://vyos.io/)
 
-[![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
+[![QNAP](https://img.shields.io/badge/qnap-%23757575.svg?&style=for-the-badge&logo=truenas&logoColor=white)](https://www.qnap.com/)
+[![OnePlus](https://img.shields.io/badge/oneplus-%23f10615.svg?&style=for-the-badge&logo=oneplus&logoColor=white))](https://www.oneplus.com/)
 [![PixelOS](https://img.shields.io/badge/pixelos-%23fde694.svg?&style=for-the-badge&logo=android&logoColor=black)](https://pixelos.net/)
 [![RisingTechOSS](https://img.shields.io/badge/RisingTechOSS-%23313163.svg?&style=for-the-badge&logo=android&logoColor=white)](https://github.com/RisingTechOSS)
 
