@@ -78,7 +78,7 @@ Extended Next-hop: Yes
 [![VyOS](https://img.shields.io/badge/VyOS-%23FFB50E.svg?&style=for-the-badge&logo=openwrt&logoColor=white&fontColor=white)](https://vyos.io/)
 
 [![QNAP](https://img.shields.io/badge/qnap-%23757575.svg?&style=for-the-badge&logo=truenas&logoColor=white)](https://www.qnap.com/)
-[![OnePlus](https://img.shields.io/badge/oneplus-%23f10615.svg?&style=for-the-badge&logo=oneplus&logoColor=white))](https://www.oneplus.com/)
+[![OnePlus](https://img.shields.io/badge/oneplus-%23f10615.svg?&style=for-the-badge&logo=oneplus&logoColor=white)](https://www.oneplus.com/)
 [![PixelOS](https://img.shields.io/badge/pixelos-%23fde694.svg?&style=for-the-badge&logo=android&logoColor=black)](https://pixelos.net/)
 [![RisingTechOSS](https://img.shields.io/badge/RisingTechOSS-%23313163.svg?&style=for-the-badge&logo=android&logoColor=white)](https://github.com/RisingTechOSS)
 
