@@ -12,6 +12,10 @@
 - [Vidar-Team](https://github.com/orgs/vidar-team/)
 - [D^3CTF](https://github.com/D-3CTF)
 
+<details>
+
+<summary><h3>AS4242420927 is ALREADY DEEEEEAD...</h3></summary>
+
 ### DN42 Autopeer
 
 > Autopeer [[Source](https://github.com/lutoma/autopeer)]  : https://dn42.liki.link/
@@ -53,6 +57,8 @@ Link-Local-IPv6:   fe80::0927
 MP-BGP-Support:    Yes
 Extended Next-hop: Yes
 ```
+
+</details>
 
 ### Technology Stack
 
