@@ -71,6 +71,7 @@ Extended Next-hop: Yes
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Gin](https://img.shields.io/badge/GIN-%23008FD0.svg?&style=for-the-badge&logo=Gin&logoColor=white)](https://laravel.com/)
 [![Rocket](https://img.shields.io/badge/rocket-%23d33847.svg?&style=for-the-badge&logo=apacherocketmq&logoColor=white)](https://rocket.rs/)
 
 ### Things with me :p
