@@ -1,7 +1,7 @@
 ## Hi there, I'm Liki4. 👋
 
 <a href="https://github.com/Liki4?tab=repositories">
-  <img align="right" src="https://gh-stats.liki4.icu/api/top-langs/?username=Liki4&layout=donut&exclude_repo=RSSHub" width="25%" />
+  <img align="right" src="https://gh-stats.liki4.icu/api/top-langs/?username=Liki4&layout=donut&hide=HTML,JavaScript,CSS" width="25%" />
   <img align="right" src="https://gh-stats.liki4.icu/api?username=Liki4&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="37%" />
 </a>
 
