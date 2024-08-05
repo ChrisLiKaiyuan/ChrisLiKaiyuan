@@ -93,15 +93,15 @@ Extended Next-hop: Yes
 [![RisingTechOSS](https://img.shields.io/badge/RisingTechOSS-%23313163.svg?&style=for-the-badge&logo=android&logoColor=white)](https://github.com/RisingTechOSS)
 
 [![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
-[![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=vscodium&logoColor=white)](https://code.visualstudio.com/)
 [![Sublime](https://img.shields.io/badge/Sublime-%23FF9800.svg?&style=for-the-badge&logo=sublimetext&logoColor=white)](https://www.sublimetext.com/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%237C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
 
 ### Contact
 
-[![Outlook](https://img.shields.io/badge/outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:chrislikaiyuan@outlook.com)
+[![Email](https://img.shields.io/badge/outlook-%230078D4.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrislikaiyuan@outlook.com)
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Liki4)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Liki4Switch)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Liki4Switch)
 [![Telegram](https://img.shields.io/badge/telegram-%232B5278.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/switch_kg)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Liki4)
